@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        let csvURL = NSURL(string: "users.csv")
+        let csvURL = NSURL(fileURLWithPath: NSBundle.mainBundle().pathForResource("users", ofType: "csv")!)
         var error: NSErrorPointer = nil
         let csv = CSV(contentsOfURL: csvURL!, error: error)!
        println(error)

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F813ED23-BC80-4189-926D-CED94E5DDACA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>csvTesting</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B054D726807EF84813CDE3C7DE78B44BE29F2F05</key>
+		<string>https://github.com/DharmeshKheni/csv-parsing.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>csvTesting.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B054D726807EF84813CDE3C7DE78B44BE29F2F05</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/DharmeshKheni/csv-parsing.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B054D726807EF84813CDE3C7DE78B44BE29F2F05</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B054D726807EF84813CDE3C7DE78B44BE29F2F05</string>
+			<key>IDESourceControlWCCName</key>
+			<string>csv-parsing</string>
+		</dict>
+	</array>
+</dict>
+</plist>
